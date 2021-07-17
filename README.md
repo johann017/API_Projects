@@ -1,10 +1,11 @@
 # API_Projects
 
 ## Setup
-To run `UMD_Employee_Salary_API.py`:
-```
-python UMD_Employee_Salary_API.py
-```
+`UMD_Employee_Salary_API.py`:
+- To run this, download the file `UMD_Employee_Salary_API.py` 
+  ```
+  python UMD_Employee_Salary_API.py
+  ```
   
 To run `News_API.py`:
 ```
