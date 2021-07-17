@@ -5,8 +5,6 @@
 - Open up Git CMD
 - Run `gh repo clone johann017/API_Projects` in the command line
 
-
-
 `UMD_Employee_Salary_API.py`:
 - To run this, type the following in to the command line:
   ```
