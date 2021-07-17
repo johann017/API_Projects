@@ -1,4 +1,4 @@
-# Working_With_APIs
+# API_Projects
 
 ## Setup
 To run `UMD_Employee_Salary_API.py`:
