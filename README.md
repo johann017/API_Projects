@@ -13,7 +13,10 @@ To run `UMD_DC_Metro_Path_API.py`:
 ## Description
 
 - ### `UMD_Employee_Salary_API.py`
-  - The purpose of this program was to experiment with working with APIs. This program uses the University of Maryland's newspaper's, the Diamondback, API to get information about the University's employees. This will get the highest paid employee, their name, their salary and their position at the University.
+  - #### Overview: 
+    - Analyze UMD's newspaper to retrieve employee with the highest salary information.
+  - #### Details: 
+    - Utilize API calls to extract the University employee's salary details. It provides the highest paid employee's name, position and salary.
 
 - ### `News_API.py`
   - This program uses a news API to get the top news from various popular news sites. This will include the source's name and a brief desciption of the article.
