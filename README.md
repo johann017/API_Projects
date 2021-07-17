@@ -2,13 +2,19 @@
 
 ## Setup
 To run `UMD_Employee_Salary_API.py`:
-- `python UMD_Employee_Salary_API.py`
-
+```
+python UMD_Employee_Salary_API.py
+```
+  
 To run `News_API.py`:
-- `python News_API.py`
+```
+python News_API.py
+```
 
 To run `UMD_DC_Metro_Path_API.py`:
-- `python DC_Metro_Path_API.py`
+```
+python DC_Metro_Path_API.py
+```
 
 ## Description
 
