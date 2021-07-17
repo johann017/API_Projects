@@ -1,21 +1,29 @@
 # API_Projects
 
 ## Setup
+- Install [GitHub CLI](https://cli.github.com/) and connect it with GitHub account
+- Open up Git CMD
+- Run `gh repo clone johann017/API_Projects` in the command line
+
+
+
 `UMD_Employee_Salary_API.py`:
-- To run this, download the file `UMD_Employee_Salary_API.py` 
+- To run this, type the following in to the command line:
   ```
   python UMD_Employee_Salary_API.py
   ```
   
-To run `News_API.py`:
-```
-python News_API.py
-```
+`News_API.py`:
+- To run this, type the following in to the command line:
+  ```
+  python News_API.py
+  ```
 
 To run `UMD_DC_Metro_Path_API.py`:
-```
-python DC_Metro_Path_API.py
-```
+- To run this, type the following in to the command line:
+  ```
+  python DC_Metro_Path_API.py
+  ```
 
 ## Description
 
