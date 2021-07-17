@@ -1,8 +1,8 @@
 # API_Projects
 
 ## Setup
-- Install [GitHub CLI](https://cli.github.com/) and connect it with GitHub account
-- Open up Git CMD
+- Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
+- Open Git CMD
 - Run `gh repo clone johann017/API_Projects` in the command line
 
 `UMD_Employee_Salary_API.py`:
