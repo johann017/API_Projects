@@ -20,6 +20,14 @@
   - #### Details: 
     - This program takes user input and checks to see if it follows proper case conventions through the use of regular expressions. It finds the path between two stations with at most one transfer. Since the fare changes based on peak hours, the program accounts for the current time in DC, regardless of where the user is, to calculate the precise fare for the trip and gives a rough estimate for the time taken. For a neater display, the terminal is cleared after execution and will leave only the vital information like lines to take, place to transfer, time taken, total cost, and stations list.
 
+<h3 align="center">Metro Map</h3>
+<p align="center">
+   <img src="https://github.com/johann017/Sudoku/blob/9bf7a2a44c3106e9e2e905712db680b2249a769d/Screenshots/Correct.PNG" width = "250"     height = "250"/>
+</p>
+
+<h3 align="center">All Stations</h3>
+
+
 ## Setup
 - Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
 - Open Git CMD
