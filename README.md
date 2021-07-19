@@ -22,7 +22,7 @@
 
 <h3 align="center">Metro Map</h3>
 <p align="center">
-   <img src="https://github.com/johann017/API_Projects/blob/9fde986c9c92d25bd5ee1111af20e23a9e1e588b/Metro_Details/Metro_Map.PNG" width = "450"     height = "450"/>
+   <img src="https://github.com/johann017/API_Projects/blob/9fde986c9c92d25bd5ee1111af20e23a9e1e588b/Metro_Details/Metro_Map.PNG" width = "600" height = "600"/>
 </p>
 
 <h3 align="center">All Stations</h3>
