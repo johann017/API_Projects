@@ -46,17 +46,17 @@
 | Shady Grove | Gallery Pl-Chinatown | Navy Yard-Ballpark | L'Enfant Plaza | Deanwood | Capitol Heights |
 | Gallery Pl-Chinatown | Archives-Navy Memorial-Penn Quarter | Anacostia | Federal Center SW | Cheverly | Addison Road-Seat Pleasant |
 | Judiciary Square | L'Enfant Plaza | Congress Heights | Capitol South | Landover | Morgan Boulevard |
-| Union Station | | Southern Avenue | Eastern Market | New Carrollton | Largo Town Center |
-| Rhode Island Ave-Brentwood | | Naylor Road | Potomac Ave | Court House | Court House |
-| Brookland-CUA | | Suitland | Stadium-Armory | Clarendon | Clarendon | 
-| Fort Totten | | Branch Ave | Benning Road | Virginia Square-GMU | Virginia Square-GMU |
-| Takoma | | | Capitol Heights | Ballston-MU | Ballston-MU | 
-| Silver Spring | | | Addison Road-Seat Pleasant | East Falls Church | East Falls Church |
-| Forest Glen | | | Morgan Boulevard | West Falls Church-VT/UVA | McLean |
-| Wheaton | | | Largo Town Center | Dunn Loring-Merrifield | Tysons Corner |
-| Glenmont | | | Van Dorn Street | Vienna/Fairfax-GMU | Greensboro |
-| NoMa-Gallaudet U | | | Franconia-Springfield | | Spring Hill |
-| | | | | | Wiehle-Reston East |
+| Union Station | - | Southern Avenue | Eastern Market | New Carrollton | Largo Town Center |
+| Rhode Island Ave-Brentwood | - | Naylor Road | Potomac Ave | Court House | Court House |
+| Brookland-CUA | - | Suitland | Stadium-Armory | Clarendon | Clarendon | 
+| Fort Totten | - | Branch Ave | Benning Road | Virginia Square-GMU | Virginia Square-GMU |
+| Takoma | - | - | Capitol Heights | Ballston-MU | Ballston-MU | 
+| Silver Spring | - | - | Addison Road-Seat Pleasant | East Falls Church | East Falls Church |
+| Forest Glen | - | - | Morgan Boulevard | West Falls Church-VT/UVA | McLean |
+| Wheaton | - | - | Largo Town Center | Dunn Loring-Merrifield | Tysons Corner |
+| Glenmont | - | - | Van Dorn Street | Vienna/Fairfax-GMU | Greensboro |
+| NoMa-Gallaudet U | - | - | Franconia-Springfield | | Spring Hill |
+| - | - | - | - | - | Wiehle-Reston East |
 
 
 ## Setup
