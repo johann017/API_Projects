@@ -27,35 +27,36 @@
 
 <h3 align="center">All Stations</h3>
 
-| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | 
-| --------- | ----------- | ---------- | --------- | ----------- |
-| Metro Center | Pentagon | Mt Vernon Sq 7th St-Convention Center | Metro Center | Metro Center |
-| Farragut North | Pentagon City | Shaw-Howard U | McPherson Square | McPherson Square |
-| Dupont Circle | Crystal City | U Street/African-Amer Civil War Memorial/Cardozo | Farragut West | Farragut West |
-| Woodley Park-Zoo/Adams Morgan | Ronald Reagan Washington National Airport | Columbia Heights| Foggy Bottom-GWU | Foggy Bottom-GWU |
-| Cleveland Park | Braddock Road | Georgia Ave-Petworth | Rosslyn | Rosslyn |
-| Van Ness-UDC | King St-Old Town | Fort Totten | Arlington Cemetery | Federal Triangle |
-| Tenleytown-AU | Eisenhower Avenue | West Hyattsville | Pentagon | Smithsonian |
-| Friendship Heights | Huntington | Prince George's Plaza| Pentagon City | L'Enfant Plaza |
-| Bethesda | Mt Vernon Sq 7th St-Convention Center | College Park-U of Md | Crystal City | Federal Center SW |
-| Medical Center | Shaw-Howard U | Greenbelt | Ronald Reagan Washington National Airport | Capitol South |
-| Grosvenor-Strathmore | U Street/African-Amer Civil War Memorial/Cardozo | Gallery Pl-Chinatown | Braddock Road | Eastern Market |
-| White Flint | Columbia Heights | Archives-Navy Memorial-Penn Quarter | King St-Old Town | Potomac Ave |
-| Twinbrook | Georgia Ave-Petworth | L'Enfant Plaza | Federal Triangle | Stadium-Armory |
-| Rockville | Fort Totten | Waterfront | Smithsonian | Minnesota Ave |
-| Shady Grove | Gallery Pl-Chinatown | Navy Yard-Ballpark | L'Enfant Plaza | Deanwood |
-| Gallery Pl-Chinatown | Archives-Navy Memorial-Penn Quarter | Anacostia | Federal Center SW | Cheverly |
-| Judiciary Square | L'Enfant Plaza | Congress Heights | Capitol South | Landover |
-| Union Station | | Southern Avenue | Eastern Market | New Carrollton |
-| Rhode Island Ave-Brentwood | | Naylor Road | Potomac Ave | Court House |
-| Brookland-CUA | | Suitland | Stadium-Armory | Clarendon |
-| Fort Totten | | Branch Ave | Benning Road | Virginia Square-GMU |
-| Takoma | | | Capitol Heights | Ballston-MU |
-| Silver Spring | | | Addison Road-Seat Pleasant | East Falls Church |
-| Forest Glen | | | Morgan Boulevard | West Falls Church-VT/UVA |
-| Wheaton | | | Largo Town Center | Dunn Loring-Merrifield |
-| Glenmont | | | Van Dorn Street | Vienna/Fairfax-GMU |
-| NoMa-Gallaudet U | | | Franconia-Springfield | |
+| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | Silver Line |
+| --------- | ----------- | ---------- | --------- | ----------- | ----------- |
+| Metro Center | Pentagon | Mt Vernon Sq 7th St-Convention Center | Metro Center | Metro Center | Metro Center |
+| Farragut North | Pentagon City | Shaw-Howard U | McPherson Square | McPherson Square | McPherson Square |
+| Dupont Circle | Crystal City | U Street/African-Amer Civil War Memorial/Cardozo | Farragut West | Farragut West | Farragut West | 
+| Woodley Park-Zoo/Adams Morgan | Ronald Reagan Washington National Airport | Columbia Heights| Foggy Bottom-GWU | Foggy Bottom-GWU | Foggy Bottom-GWU |
+| Cleveland Park | Braddock Road | Georgia Ave-Petworth | Rosslyn | Rosslyn | Rosslyn |
+| Van Ness-UDC | King St-Old Town | Fort Totten | Arlington Cemetery | Federal Triangle | Federal Triangle |
+| Tenleytown-AU | Eisenhower Avenue | West Hyattsville | Pentagon | Smithsonian | Smithsonian |
+| Friendship Heights | Huntington | Prince George's Plaza| Pentagon City | L'Enfant Plaza | L'Enfant Plaza |
+| Bethesda | Mt Vernon Sq 7th St-Convention Center | College Park-U of Md | Crystal City | Federal Center SW | Federal Center SW |
+| Medical Center | Shaw-Howard U | Greenbelt | Ronald Reagan Washington National Airport | Capitol South | Capitol South |
+| Grosvenor-Strathmore | U Street/African-Amer Civil War Memorial/Cardozo | Gallery Pl-Chinatown | Braddock Road | Eastern Market | Eastern Market |
+| White Flint | Columbia Heights | Archives-Navy Memorial-Penn Quarter | King St-Old Town | Potomac Ave | Potomac Ave |
+| Twinbrook | Georgia Ave-Petworth | L'Enfant Plaza | Federal Triangle | Stadium-Armory | Stadium-Armory |
+| Rockville | Fort Totten | Waterfront | Smithsonian | Minnesota Ave | Benning Road |
+| Shady Grove | Gallery Pl-Chinatown | Navy Yard-Ballpark | L'Enfant Plaza | Deanwood | Capitol Heights |
+| Gallery Pl-Chinatown | Archives-Navy Memorial-Penn Quarter | Anacostia | Federal Center SW | Cheverly | Addison Road-Seat Pleasant |
+| Judiciary Square | L'Enfant Plaza | Congress Heights | Capitol South | Landover | Morgan Boulevard |
+| Union Station | | Southern Avenue | Eastern Market | New Carrollton | Largo Town Center |
+| Rhode Island Ave-Brentwood | | Naylor Road | Potomac Ave | Court House | Court House |
+| Brookland-CUA | | Suitland | Stadium-Armory | Clarendon | Clarendon | 
+| Fort Totten | | Branch Ave | Benning Road | Virginia Square-GMU | Virginia Square-GMU |
+| Takoma | | | Capitol Heights | Ballston-MU | Ballston-MU | 
+| Silver Spring | | | Addison Road-Seat Pleasant | East Falls Church | East Falls Church |
+| Forest Glen | | | Morgan Boulevard | West Falls Church-VT/UVA | McLean |
+| Wheaton | | | Largo Town Center | Dunn Loring-Merrifield | Tysons Corner |
+| Glenmont | | | Van Dorn Street | Vienna/Fairfax-GMU | Greensboro |
+| NoMa-Gallaudet U | | | Franconia-Springfield | | Spring Hill |
+| | | | | | Wiehle-Reston East |
 
 
 ## Setup
