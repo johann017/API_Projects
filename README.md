@@ -27,10 +27,10 @@
 
 <h3 align="center">All Stations</h3>
 
-| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | Silver Line | 
-| --------- | ------------- |
-| Metro Center | Content Cell  |
-| Farragut North | Content Cell  |
+| Red Line  |  
+| --------- |
+| Metro Center |
+| Farragut North |
 | Dupont Circle |
 | Woodley Park-Zoo/Adams Morgan |
 | Cleveland Park |
