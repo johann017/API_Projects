@@ -27,35 +27,35 @@
 
 <h3 align="center">All Stations</h3>
 
-| Red Line  | Yellow Line |
-| --------- | ----------- |
-| Metro Center | Pentagon |
-| Farragut North | Pentagon City |
-| Dupont Circle | Crystal City |
-| Woodley Park-Zoo/Adams Morgan | Ronald Reagan Washington National Airport |
-| Cleveland Park | Braddock Road |
-| Van Ness-UDC | King St-Old Town |
-| Tenleytown-AU | Eisenhower Avenue |
-| Friendship Heights | Huntington |
-| Bethesda | Mt Vernon Sq 7th St-Convention Center |
-| Medical Center | Shaw-Howard U |
-| Grosvenor-Strathmore | U Street/African-Amer Civil War Memorial/Cardozo |
-| White Flint | Columbia Heights | 
-| Twinbrook | Georgia Ave-Petworth |
-| Rockville | Fort Totten |
-| Shady Grove | Gallery Pl-Chinatown |
-| Gallery Pl-Chinatown | Archives-Navy Memorial-Penn Quarter |
-| Judiciary Square | L'Enfant Plaza |
-| Union Station | |
-| Rhode Island Ave-Brentwood | |
-| Brookland-CUA | |
-| Fort Totten | |
-| Takoma | |
-| Silver Spring | |
-| Forest Glen | |
-| Wheaton | |
-| Glenmont | |
-| NoMa-Gallaudet U | |
+| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | Silver Line |
+| --------- | ----------- | ---------- |
+| Metro Center | Pentagon | Mt Vernon Sq 7th St-Convention Center |
+| Farragut North | Pentagon City | Shaw-Howard U |
+| Dupont Circle | Crystal City | U Street/African-Amer Civil War Memorial/Cardozo |
+| Woodley Park-Zoo/Adams Morgan | Ronald Reagan Washington National Airport | Columbia Heights| 
+| Cleveland Park | Braddock Road | Georgia Ave-Petworth |
+| Van Ness-UDC | King St-Old Town | Fort Totten |
+| Tenleytown-AU | Eisenhower Avenue | West Hyattsville |
+| Friendship Heights | Huntington | Prince George's Plaza|
+| Bethesda | Mt Vernon Sq 7th St-Convention Center | College Park-U of Md |
+| Medical Center | Shaw-Howard U | Greenbelt |
+| Grosvenor-Strathmore | U Street/African-Amer Civil War Memorial/Cardozo | Gallery Pl-Chinatown |
+| White Flint | Columbia Heights | Archives-Navy Memorial-Penn Quarter |
+| Twinbrook | Georgia Ave-Petworth | L'Enfant Plaza |
+| Rockville | Fort Totten | Waterfront |
+| Shady Grove | Gallery Pl-Chinatown | Navy Yard-Ballpark |
+| Gallery Pl-Chinatown | Archives-Navy Memorial-Penn Quarter | Anacostia |
+| Judiciary Square | L'Enfant Plaza | Congress Heights |
+| Union Station | | Southern Avenue |
+| Rhode Island Ave-Brentwood | | Naylor Road |
+| Brookland-CUA | | Suitland |
+| Fort Totten | | Branch Ave |
+| Takoma | | |
+| Silver Spring | | |
+| Forest Glen | | |
+| Wheaton | | |
+| Glenmont | | |
+| NoMa-Gallaudet U | | |
 
 
 ## Setup
