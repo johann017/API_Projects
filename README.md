@@ -27,7 +27,7 @@
 
 <h3 align="center">All Stations</h3>
 
-| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | Silver Line |
+| Red Line  | Yellow Line | Green Line | 
 | --------- | ----------- | ---------- |
 | Metro Center | Pentagon | Mt Vernon Sq 7th St-Convention Center |
 | Farragut North | Pentagon City | Shaw-Howard U |
