@@ -27,6 +27,36 @@
 
 <h3 align="center">All Stations</h3>
 
+| Red Line  | Yellow Line | Green Line | Blue Line | Orange Line | Silver Line | 
+| --------- | ------------- |
+| Metro Center | Content Cell  |
+| Farragut North | Content Cell  |
+| Dupont Circle |
+| Woodley Park-Zoo/Adams Morgan |
+| Cleveland Park |
+| Van Ness-UDC |
+| Tenleytown-AU |
+| Friendship Heights |
+| Bethesda |
+| Medical Center |
+| Grosvenor-Strathmore |
+| White Flint |
+| Twinbrook |
+| Rockville |
+| Shady Grove |
+| Gallery Pl-Chinatown |
+| Judiciary Square |
+| Union Station |
+| Rhode Island Ave-Brentwood |
+| Brookland-CUA |
+| Fort Totten |
+| Takoma |
+| Silver Spring |
+| Forest Glen |
+| Wheaton |
+| Glenmont |
+| NoMa-Gallaudet U |
+
 
 ## Setup
 - Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
