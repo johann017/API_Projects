@@ -1,4 +1,0 @@
-#Stations
-
-- Red Line
-  - Metro Center
