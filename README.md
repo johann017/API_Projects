@@ -63,6 +63,7 @@
 - Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
 - Open Git CMD
 - Run `gh repo clone johann017/API_Projects` in the command line
+- Move into the API_Projects directory
 
 `UMD_Employee_Salary_API.py`:
 - To run this, type the following in to the command line:
